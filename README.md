@@ -36,7 +36,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Cloud Services:**
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) (AZ-900, AZ-204)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 **IA:**
 ![watsonx.ai](https://img.shields.io/badge/IBM_Watson-052FAD?style=for-the-badge&logo=ibm-watson&logoColor=white)
