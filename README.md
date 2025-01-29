@@ -17,8 +17,8 @@
 ![Miguel Moreno](https://github-readme-stats.vercel.app/api?username=miguelmorenocolume&show_icons=true&theme=radical)
 
 ### 📫 How to Reach Me
-- 📧 Email: mmorenocolume@gmail.com(mailto:your-mmorenocolume@gmail.com.com)
-- 💼 LinkedIn: Miguel Moreno(https://www.linkedin.com/in/miguel-moreno-colum%C3%A9-05958b2aa/)
+- 📧 Email: mmorenocolume@gmail.com
+- 💼 LinkedIn: Miguel Moreno (https://www.linkedin.com/in/miguel-moreno-colum%C3%A9-05958b2aa/)
 
 ### 🤝 Let's Collaborate!
 If you have an interesting idea or project in mind, feel free to contact me. I'm always open to new collaborations!
