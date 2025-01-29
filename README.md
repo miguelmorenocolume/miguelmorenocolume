@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there! I'm Miguel Moreno 👋
 
-<!--
-**miguelmorenocolume/miguelmorenocolume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 👨‍💻 Multiplatform application developer.
+- 🎓 Currently pursuing a Master's in Fullstack Development.
+- 🌍 Passionate about coding, technology, and innovation.
 
-Here are some ideas to get you started:
+### 🛠️ Technologies and Tools
+- Languages: HTML, CSS, JavaScript, Java, Python, Kotlin, C#
+- Frameworks: Streamlit, Spring, Django, Angular, React, Node.js
+- Databases: Snowflake, SQL, MySQL, PostgreSQL, MariaDB
+- Tools: Git, Docker.
+- Cloud Services: Azure(AZ-900, AZ-204)
+- IA: watsonx.ai
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+!Miguel Moreno(https://github-readme-stats.vercel.app/api?username=miguelmorenocolume&show_icons=true&theme=radical)
+
+### 📫 How to Reach Me
+- 📧 Email: mmorenocolume@gmail.com(mailto:your-mmorenocolume@gmail.com.com)
+- 💼 LinkedIn: Miguel Moreno(https://www.linkedin.com/in/miguel-moreno-colum%C3%A9-05958b2aa/)
+
+### 🤝 Let's Collaborate!
+If you have an interesting idea or project in mind, feel free to contact me. I'm always open to new collaborations!
+
+---
+
+_Thank you for visiting my profile!_ 🌟
