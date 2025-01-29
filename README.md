@@ -14,7 +14,7 @@
 - IA: watsonx.ai
 
 ### 📈 GitHub Stats
-!Miguel Moreno(https://github-readme-stats.vercel.app/api?username=miguelmorenocolume&show_icons=true&theme=radical)
+![Miguel Moreno](https://github-readme-stats.vercel.app/api?username=miguelmorenocolume&show_icons=true&theme=radical)
 
 ### 📫 How to Reach Me
 - 📧 Email: mmorenocolume@gmail.com(mailto:your-mmorenocolume@gmail.com.com)
