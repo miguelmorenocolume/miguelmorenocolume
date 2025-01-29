@@ -1,9 +1,9 @@
 # Hi there! I'm Miguel Moreno 👋
 
 ## 🚀 About Me
-👨‍💻 Multiplatform application developer.
-🎓 Currently pursuing a Master's in Fullstack Development.
-🌍 Passionate about coding, technology, and innovation.
+- 👨‍💻 Multiplatform application developer.
+- 🎓 Currently pursuing a Master's in Fullstack Development.
+- 🌍 Passionate about coding, technology, and innovation.
 
 ## 🛠️ Technologies and Tools
 
